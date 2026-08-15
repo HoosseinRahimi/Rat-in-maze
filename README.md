@@ -1,5 +1,7 @@
 # Rat in a Maze: Pathfinding Algorithms
 
+[![Tests](https://github.com/HoosseinRahimi/Rat-in-maze/actions/workflows/tests.yml/badge.svg)](https://github.com/HoosseinRahimi/Rat-in-maze/actions/workflows/tests.yml)
+
 A Python project for solving grid mazes with four different search strategies:
 
 - **Breadth-First Search (BFS)**
